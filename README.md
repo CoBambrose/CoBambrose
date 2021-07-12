@@ -16,6 +16,6 @@ My name's Cobain Ambrose and I'm a self-taught web-developer and director of __H
   * Mostly those two lol
   
 ## Contact Me
-![Instagram Icon](./instagram.png) Instagram: @cobyambrose  
+![Instagram Icon](./instagram.png) Instagram: @cobambrose  
 ![Facebook Icon](./facebook.png) Facebook: Cobain Ambrose  
 ![Email Icon](./gmail.png) Email: cobaniaca@gmail.com  
